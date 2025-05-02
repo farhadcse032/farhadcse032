@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, Myself Farhad Hossain👋
+Thanks for visting me. 
+![Farhad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 
 <!--
 **farhadcse032/farhadcse032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
