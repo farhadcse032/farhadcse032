@@ -10,6 +10,21 @@ Thanks for stopping by — glad to have you here!
 
 ---
 
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=farhadcse032&label=Profile%20Views&color=brightgreen&style=flat)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=farhadcse032&theme=darkhub&column=6&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20Me-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/farhad-hossain-4092a7122/)
+
+
+</div>
+
+
+---
+
 ## 🚀 About Me
 
 - 🔧 Backend Engineer with 3+ years of experience building scalable APIs and microservices using Golang and Laravel  
