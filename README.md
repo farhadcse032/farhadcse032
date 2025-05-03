@@ -1,7 +1,12 @@
 <div align="center">
   
 ## 🇧🇩 Hey there! I'm Farhad Hossain 👋  
-Thanks for stopping by — glad to have you here!
+
+<span style="color:green">
+
+Thanks for stopping by — glad to have you here! ❤️
+
+</span>
 
 
 ### 💼 Backend Engineer (Golang, Laravel) | Cloud, API & System Design Enthusiast
